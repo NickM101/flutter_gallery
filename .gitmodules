@@ -1,3 +1,6 @@
 [submodule "workout_ui"]
 	path = workout_ui
 	url = ./workout_ui
+[submodule "gallery_ui_workshop"]
+	path = gallery_ui_workshop
+	url = ./gallery_ui_workshop
